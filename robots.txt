@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://liclectr.github.io/sitemap.html
+Sitemap: https://liclectr.github.io/fa/sitemap.html
+Sitemap: https://liclectr.github.io/fi/sitemap.html
+Sitemap: https://liclectr.github.io/fu/sitemap.html
